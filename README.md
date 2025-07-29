@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yüksel%20Coşgun&fontSize=45&fontColor=fff&animation=fadeIn" alt="banner"/>
 
 <h2 align="center">👋 Hi there, I'm Yüksel Coşgun</h2>
-<p align="center">🎯 Passionate Developer | 👨‍💻 AI, Web Scraping & Backend Specialist | Open Source Contributor</p>
+<p align="center">🎯 Passionate Developer | 👨‍💻 AI, Web Scraping, Backend & DevOps Specialist | Open Source Contributor</p>
 
 ---
 
@@ -10,6 +10,7 @@
 
 - 💻 I’m passionate about all things computer science & software  
 - 🔍 Currently focused on: **Spring Boot**, **AI with Transformers**, **Advanced PyTorch Architectures**
+- ⚙️ Experienced in **CI/CD pipelines** and **containerization technologies (Docker, Kubernetes)**
 - 🛠️ Main project: **Dynamic E-Commerce Scraper**
 - 🌍 Actively seeking to contribute to **open-source communities** (volunteer or paid)
 - 📧 Contact me: **yukselcosgun1@gmail.com**
@@ -20,7 +21,7 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,kotlin,html,css,js,git,github,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,kotlin,html,css,js,git,github,vscode,linux,docker,kubernetes,jenkins,travis&theme=dark" />
 </p>
 
 ---
@@ -38,8 +39,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yukselcosgun&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukselcosgun&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yukselcsgn&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukselcsgn&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
@@ -47,7 +48,7 @@
 ### 📈 Visitor Counter
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yukselcosgun&label=Visitors&color=blue&style=flat" alt="visitor counter"/>
+  <img src="https://komarev.com/ghpvc/?username=Yukselcsgn&label=Visitors&color=blue&style=flat" alt="visitor counter"/>
 </p>
 
 ---
@@ -58,6 +59,7 @@
 - Artificial Intelligence & Deep Learning (PyTorch, TensorFlow)
 - Web Scraping, Automation, and Dynamic Data Mining
 - Backend Development (Spring Boot, FastAPI)
+- DevOps: CI/CD pipelines, Docker & Kubernetes
 - Ancient Languages, Historical NLP, and Script Decoding
 
 ---
@@ -68,6 +70,7 @@
   <a href="[https://www.linkedin.com/in/yukselcosgun/](https://www.linkedin.com/in/y%C3%BCksel-co%C5%9Fgun/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="[https://medium.com/@yukselcosgun](https://medium.com/@yukselcosgun)" target="_blank"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="mailto:yukselcosgun1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="[https://instagram.com/yukselcosgun](https://www.instagram.com/yuksel_csgn/)" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
