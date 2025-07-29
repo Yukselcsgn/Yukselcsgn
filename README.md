@@ -21,7 +21,7 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,kotlin,androidstudio,react,ts,html,css,js,nodejs,git,github,vscode,linux,anaconda,idea,pycharm,docker,kubernetes,jenkins,travis,mysql,mongodb,sqlite,firebase,scikitlearn,sklearn,selenium,postman,c,cpp,flask,stackoverflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,kotlin,androidstudio,react,ts,html,css,js,nodejs,git,github,vscode,linux,anaconda,idea,pycharm,docker,kubernetes,jenkins,mysql,mongodb,sqlite,firebase,scikitlearn,selenium,postman,c,cpp,flask,stackoverflow&theme=dark" />
 </p>
 
 ---
