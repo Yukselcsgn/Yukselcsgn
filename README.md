@@ -21,7 +21,7 @@
 ### 🛠️ Tools & Technologies I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,kotlin,android,react,reactnative,html,css,js,git,github,vscode,linux,docker,kubernetes,jenkins,travis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,pytorch,tensorflow,kotlin,react,reactnative,android,html,css,js,git,github,vscode,linux,docker,kubernetes,jenkins,travis&theme=dark" />
 </p>
 
 ---
