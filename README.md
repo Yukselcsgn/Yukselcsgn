@@ -43,21 +43,7 @@ Transformer-based model for decoding and translating ancient Turkic scripts.
 Real-world ML pipeline with optimized ROC AUC and feature engineering.  
 **Tech:** Pandas, Scikit-learn, ML Models
 
----
 
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://readme-stats-coral.vercel.app/api?username=Yukselcsgn&show_icons=true&theme=radical" height="165" />
-  <img src="https://readme-stats-coral.vercel.app/api/top-langs/?username=Yukselcsgn&layout=compact&theme=radical" height="165" />
-</p>
-
-</p>
-
-
-</p>
 
 ---
 
