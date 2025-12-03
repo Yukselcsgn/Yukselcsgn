@@ -47,9 +47,12 @@ Real-world ML pipeline with optimized ROC AUC and feature engineering.
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yukselcsgn&show_icons=true&theme=radical&cache_seconds=7200" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yukselcsgn&layout=compact&theme=radical&cache_seconds=7200" />
+  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api?username=Yukselcsgn&show_icons=true&theme=radical" height="165" />
+  <img src="https://ghproxy.com/https://github-readme-stats.vercel.app/api/top-langs/?username=Yukselcsgn&layout=compact&theme=radical" height="165" />
+</p>
+
 
 </p>
 
